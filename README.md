@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DGSNP
 - 👀 I’m interested in somatic and germline mutations affecting T cell and B cell immunity
-- 🌱 I’m currently learning Python and R
-- 💞️ I’m looking to collaborate on single cell or single molecule sequencing projects
+- 🌱 I’m currently learning Python, R and different workflow languages to automate data processing pipelines
+- 💞️ I’m looking to collaborate on single-cell or single-molecule sequencing projects
 - 📫 How to reach me: daniel.gdmn.151@gmail.com
 
 <!---
